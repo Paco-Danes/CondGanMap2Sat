@@ -10,7 +10,7 @@ Set-up instructions for running "TryOut.ipynb", since the models were to big (37
 1. Gain access to this public shared GoogleDrive folder by simply clicking [THIS LINK](https://drive.google.com/drive/folders/1BA7XhZTy5cUg-Tcs4KP3Ay52F6F4Ewju?usp=drive_link). You will find 4 models (.pth) and 2 datasets (.zip).
 2. Select all of them and "right-click -> create a copy".
 3. Rename the copies as you wish without any blank space in the name and move all of them into your local drive with "right-click -> Organize -> Move" (That is, in your "MyDrive", outside the shared folder)
-4. Open TryOut.ipynb with google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paco-Danes/CondGanMap2Sat/blob/main/TryOut.ipynb) and mont your local drive by running the first cell (or manually through the UI)
+4. Open TryOut.ipynb with google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paco-Danes/CondGanMap2Sat/blob/main/TryOut.ipynb) and mount your local drive by running the first cell (or manually through the UI)
 5. Replace all the placeholder paths in the 3 commented cells (you can find them easily) with your actual paths of your models and test sets. You can find your file paths by navigating in the file system on the left side, locating your files and "right-click -> copy path". Please be careful to insert the correct path in the corresponding variable.
 6. Finally run all the cell in order. Now you can repeatedly use the last two cells to generate new images and see the results and model comparisons from both datasets.
 
