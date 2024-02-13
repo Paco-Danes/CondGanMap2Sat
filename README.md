@@ -7,7 +7,7 @@ The repository contains 3 files:
 * TryOut.ipynb: a small notebook where, if you wish, you can try and test the models yourself by the help of the functions provided, by making new random generations using the OpenStreetMap images of the 2 test datasets.
 
 Set-up instructions for running "TryOut.ipynb", since the models were to big (370MB) to load on GitHub:
-1. Gain access to this public shared GoogleDrive folder by simply clicking [THIS LINK](https://drive.google.com/drive/folders/1BA7XhZTy5cUg-Tcs4KP3Ay52F6F4Ewju?usp=drive_link). You will find 4 models and 2 datasets.
+1. Gain access to this public shared GoogleDrive folder by simply clicking [THIS LINK](https://drive.google.com/drive/folders/1BA7XhZTy5cUg-Tcs4KP3Ay52F6F4Ewju?usp=drive_link). You will find 4 models (.pth) and 2 datasets (.zip).
 2. Select all of them and "right-click -> create a copy".
 3. Rename the copies as you wish without any blank space in the name and move all of them into your local drive with "right-click -> Organize -> Move"
 4. Open TryOut.ipynb with google Colab and mont your local drive by running the first cell (or manually through the UI)
